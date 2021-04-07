@@ -10,3 +10,5 @@
 - [] KAFKA
 - [] Spring-boot Microservices Jdk 11 - Lombok - Swagger - Reactive - Docker - Kubernetes
 - [] Saga - Event sourcing - outofbox pattern - Kafka
+- [] Stream Custom
+- [] Hibernate Second Level Cache
