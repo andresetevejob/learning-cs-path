@@ -12,3 +12,8 @@
 - [] Saga - Event sourcing - outofbox pattern - Kafka
 - [] Stream Custom
 - [] Hibernate Second Level Cache
+- [] Design Pattern en Java
+- [] Pattern combinator
+- [] combine validation vavr
+- [] Try better monad
+- [] Spring Boot 2.3 cloud build packs
