@@ -17,3 +17,4 @@
 - [] combine validation vavr
 - [] Try better monad
 - [] Spring Boot 2.3 cloud build packs
+- [] Rules engine easyRules
